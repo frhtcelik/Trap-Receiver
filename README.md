@@ -9,8 +9,9 @@ Kullanılan Teknolojiler:
 -StackExchange.Redis (Redis bağlantısı)
 
 Sistem, RedisInsight veya redis-cli üzerinden gelen trap verilerini izlemenizi sağlar.
-
 Bu uygulama, ağ yönetim sistemleri veya SNMP tabanlı izleme sistemleri için temel oluşturabilir.
+
+
 
 Project Description (English)
 SNMP Trap Receiver - Redis Integration (Ubuntu .NET Worker Service)
@@ -24,5 +25,4 @@ Technologies Used:
 -StackExchange.Redis (Redis Connector)
 
  You can monitor trap data via RedisInsight or redis-cli.
-
 This application can serve as a basic component for network management or SNMP-based monitoring systems.
